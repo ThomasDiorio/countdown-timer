@@ -1,2 +1,2 @@
 # countdown-timer
-# [Countdown-Timer](https://www.google.com)
+# [Countdown-Timer](https://thomasdiorio.github.io/countdown-timer/)
